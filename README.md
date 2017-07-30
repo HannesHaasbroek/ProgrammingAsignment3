@@ -18,3 +18,5 @@ From this the identification variables and all the mean and standard deviation v
 A Second data set is created from the first to be a mean of the variables by subject and activity.
 
 These two data sets are then writen out as csv files.
+This is changed to txt files for only the second set.
+The previous code is still included
